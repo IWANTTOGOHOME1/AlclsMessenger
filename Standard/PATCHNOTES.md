@@ -1,4 +1,4 @@
-# 미친메신저의정석 기본형 패치노트<br>Alcls Messenger Patch Notes
+# 미친메신저의정석 기본형 패치노트<br>Alcls Messenger Standard Patch Notes
 
 ### v1.0
 #### v1.0.0 - 최초생성일 2025.03.29.
