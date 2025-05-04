@@ -16,9 +16,9 @@ users = []
 clientsInfo = {}
 
 #사용자 정의 변수
-PORT = 888
-ip = "Unknown"
-maxUsers = 10
+PORT = 887
+ip = "Unknown" #편의용
+maxUsers = 50
 
 #개발 버전 변수
 version = "AMS102"
@@ -147,7 +147,7 @@ serverSocket.bind((HOST, PORT))
 serverSocket.listen(maxUsers)
 
 #서버 시작로그 출력
-print(f"\n집가고싶다 inc.\n미친메신저서버의정석 1세대 v{displayVersion}\n\n서버주소 : {ip}\n서버포트 : {PORT}\n서버 최대 인원 : {maxUsers}\n\n", end="")
+print(f"\n집가고싶다 Inc.\n미친메신저서버의정석 1세대 v{displayVersion}\n\n서버주소 : {ip}\n서버포트 : {PORT}\n서버 최대 인원 : {maxUsers}\n\n", end="")
 timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 with open("log.txt", "a", encoding="utf-8") as logFile:
     logFile.write(f"[{timestamp}] (SYSTEM) {ip}:{PORT}에서 서버를 시작했습니다.\n")
