@@ -16,7 +16,7 @@ users = []
 clientsInfo = {}
 
 #사용자 정의 변수
-PORT = 887
+PORT = 888
 ip = "Unknown" #편의용
 maxUsers = 50
 
