@@ -2,7 +2,7 @@
 #미친메신저서버의정석
 
 #미친메신저서버의정석 v1.2.4
-#AMS02
+#AMS102
 
 #패키지
 from tkinter import *
