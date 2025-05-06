@@ -12,7 +12,7 @@ import threading
 import time
 
 # 개발 버전 변수
-version = "AMGP"
+version = "AMG100"
 displayVersion = "1.0.0"
 
 communstate = False
