@@ -1,4 +1,4 @@
-# 집가고싶다 Inc.<br>미친메신저의정석 GUI
+# 미친메신저의정석 GUI<br>AlclsMessenger GUI
 
 ### 프로토타입 (AMGP)
 1. 미친메신저의정석 GUI, 프로토타입 버전 생성
